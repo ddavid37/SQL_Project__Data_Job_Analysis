@@ -24,6 +24,7 @@ To conduct my analysis of the data analyst job market, I utilized several essent
 - **PostgreSQL**: The database management system I used to manage job posting data.
 - **Visual Studio Code**: My preferred IDE for managing databases and running SQL queries.
 - **Git & GitHub**: Crucial for version control, sharing SQL scripts, and ensuring collaboration and project transparency.
+- **sqliteviz**: The online web app that I used to clean and to prepare data for analysation.
 
 ## The Analysis
 
